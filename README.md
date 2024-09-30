@@ -2,6 +2,10 @@
 
 Este projeto tem como objetivo realizar a predição da probabilidade de tumores serem malignos utilizando o algoritmo de regressão logística. Através da análise das características dos tumores, buscamos identificar os fatores que mais influenciam essa classificação.
 
+## Membros do Grupo
+
+Gabriel Chaves Gonçalves
+
 ## Índice
 
 - [Descrição](#descrição)
