@@ -23,3 +23,6 @@ O estudo utiliza o Breast Cancer Wisconsin Dataset, que contém informações so
 ## Dependências
 Este projeto requer as seguintes bibliotecas:
 Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+
+## Link Apresentação - Youtube
+https://youtu.be/IJvE6ek1RSc
